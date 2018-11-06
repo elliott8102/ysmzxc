@@ -1,7 +1,0 @@
-CN - HK - HKBN 25222
-KR - Seoul - KR 54321
-JP - OSA - iij 33333
-RU - OVB - Adman 38383
-US - LA - CN2 GIA DGC 25200
-US - LA - QNANY
-US - LA - QNHMB
